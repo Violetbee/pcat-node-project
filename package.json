@@ -1,0 +1,25 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "pcat full stack node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Violetbee/pcat-node-project.git"
+  },
+  "keywords": [
+    "node",
+    "app",
+    "fullstack",
+    "app"
+  ],
+  "author": "Violetbee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Violetbee/pcat-node-project/issues"
+  },
+  "homepage": "https://github.com/Violetbee/pcat-node-project#readme"
+}
